@@ -1,0 +1,8 @@
+{
+  "name": "Lịch Trình Cá Nhân",
+  "short_name": "Lịch Trình",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f4f7f6",
+  "theme_color": "#3498db"
+}
